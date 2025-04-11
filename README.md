@@ -1,8 +1,6 @@
 # DBMS-PROJECT-
 # Travel Itinerary Database Management System
 
-![Database Schema](https://via.placeholder.com/800x400?text=Travel+Itinerary+ER+Diagram) 
-*(Replace with actual diagram image)*
 
 ## Project Overview
 A comprehensive database system for managing travel itineraries, user profiles, destinations, and travel packages. This project was developed as part of the Database Management System course at SVKM's NMIMS.
